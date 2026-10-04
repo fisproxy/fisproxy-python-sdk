@@ -11,7 +11,7 @@ Default endpoint: `https://api.fisproxy.org`. Request signing is handled by the 
 ## Install
 
 ```bash
-pip install git+https://github.com/nyaproxy/fisproxy-python-sdk.git
+pip install git+https://github.com/fisproxy/fisproxy-python-sdk.git
 ```
 
 Python 3.9+. No third-party runtime dependencies.

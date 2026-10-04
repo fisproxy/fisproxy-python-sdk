@@ -11,7 +11,7 @@
 ## 安装
 
 ```bash
-pip install git+https://github.com/nyaproxy/fisproxy-python-sdk.git
+pip install git+https://github.com/fisproxy/fisproxy-python-sdk.git
 ```
 
 需要 Python 3.9 或更高版本，无第三方运行时依赖。
